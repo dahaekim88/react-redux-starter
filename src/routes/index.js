@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Home, Test } from '../pages';
-import Header from '../components';
+import { Header } from '../components';
 
 export const routes = [
   {
